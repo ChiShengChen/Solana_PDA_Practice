@@ -1,0 +1,8 @@
+[package]
+name = "solana_clean_demo_debug"
+version = "0.1.0"
+edition = "2018"
+rust-version = "1.62"
+
+[dependencies]
+solana-program = "=1.14.13" 

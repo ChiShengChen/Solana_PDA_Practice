@@ -1,0 +1,16 @@
+[package]
+name = "constant_time_eq"
+version = "0.1.5"
+edition = "2018"
+authors = ["Cesar Eduardo Barros <cesarb@cesarb.eti.br>"]
+description = "Compares two equal-sized byte strings in constant time."
+documentation = "https://docs.rs/constant_time_eq"
+repository = "https://github.com/cesarb/constant_time_eq"
+license = "MIT OR Apache-2.0"
+keywords = ["crypto", "security"]
+
+[lib]
+name = "constant_time_eq"
+path = "src/lib.rs"
+
+[dependencies]
