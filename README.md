@@ -1,6 +1,6 @@
 # Solana Account Demo
 
-This repository demonstrates a simple Solana program that manages user data accounts with messages that can be updated.
+This repository demonstrates a simple Solana program that manages user data accounts with messages that can be updated through PDA.
 
 ## Current Program Address
 ```
